@@ -12,3 +12,23 @@
     align-items: center;
     padding: 70px;
 }
+
+thead th:nth-child(1){
+    background-color: #fff;
+    color: #222;
+}
+
+thead th:nth-child(2){
+    background-color: #fff;
+    color: #222;
+}
+
+thead th:nth-child(3){
+    background-color: #fff;
+    color: #222;
+}
+
+td:hover{
+    background-color: aqua;
+    color: black;
+}
